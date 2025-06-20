@@ -9,13 +9,6 @@
 
 ---
 
-## ✨ Demo
-
-> 🚧 *Add screenshots or a short demo video here*  
-> 📷 `screenshots/app-preview1.png`, `screenshots/video-demo.gif`
-
----
-
 ## 📥 Clone & Run Locally
 
 ### Backend (Node.js + Express)
